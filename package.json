@@ -2,7 +2,7 @@
   "name": "seasons",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sheen4n.github.io/react-seasons",
+  "homepage": "https://sheen4n.github.io/react-seasons",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
